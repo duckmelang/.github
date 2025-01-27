@@ -1,4 +1,4 @@
-name: Bug Template
+name: :bug Bug Template
 description: Bug 사항이 있을 때 사용하는 템플릿
 title: "[Bug]: Bug Title"
 labels: ["bug"]
