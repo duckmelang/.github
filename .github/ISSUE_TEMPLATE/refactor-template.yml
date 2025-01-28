@@ -1,4 +1,4 @@
-name: "리팩터링"
+name: "🔄 Refactor"
 description: "기능은 변경하지 않고, 기존 코드를 재구성하여 가독성, 유지보수성 또는 성능을 개선하는 작업"
 title: "[리팩터링] 작업 내용을 간단히 작성해주세요"
 labels: ["refactor", "enhancement"]
@@ -11,7 +11,7 @@ body:
   - type: textarea
     id: current_issue
     attributes:
-      label: "현재 문제"
+      label: "📄 현재 문제"
       description: "리팩터링이 필요한 현재 코드의 문제를 설명해주세요. 예: 코드 중복, 가독성 부족, 비효율성 등"
       placeholder: "예: UserService 클래스에 사용자 검증 로직이 중복되어 있습니다."
     validations:
