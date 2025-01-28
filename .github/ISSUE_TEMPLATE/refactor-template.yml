@@ -27,7 +27,7 @@ body:
   - type: checkboxes
     id: goals
     attributes:
-      label: "리팩터링 목표"
+      label: "✅ 리팩터링 목표"
       description: "이번 리팩터링 작업의 목표를 모두 선택해주세요."
       options:
         - label: "가독성 개선"
@@ -43,6 +43,6 @@ body:
   - type: textarea
     id: additional_notes
     attributes:
-      label: "추가 메모"
+      label: "🙋🏻 추가 메모"
       description: "리팩터링과 관련된 추가 정보나 참고 사항을 작성해주세요."
       placeholder: "예: 머지 전에 충분히 테스트해주세요."
