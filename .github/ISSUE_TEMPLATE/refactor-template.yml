@@ -1,6 +1,6 @@
 name: "🔄 Refactor"
 description: "기능은 변경하지 않고, 기존 코드를 재구성하여 가독성, 유지보수성 또는 성능을 개선하는 작업"
-title: "[리팩터링] 작업 내용을 간단히 작성해주세요"
+title: "[Refactor] 작업 내용을 간단히 작성해주세요"
 labels: ["refactor", "enhancement"]
 body:
   - type: markdown
