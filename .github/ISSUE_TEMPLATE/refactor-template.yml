@@ -24,22 +24,6 @@ body:
       placeholder: "예: 사용자 검증 로직을 유틸리티 함수로 통합"
     validations:
       required: false
-  - type: checkboxes
-    id: goals
-    attributes:
-      label: "✅ 리팩터링 목표"
-      description: "이번 리팩터링 작업의 목표를 모두 선택해주세요."
-      options:
-        - label: "가독성 개선"
-          required: false
-        - label: "유지보수성 향상"
-          required: false
-        - label: "성능 최적화"
-          required: false
-        - label: "코드 중복 제거"
-          required: false
-        - label: "로직 간소화"
-          required: false
   - type: textarea
     id: additional_notes
     attributes:
