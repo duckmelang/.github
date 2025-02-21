@@ -43,17 +43,17 @@ It is a platform that provides a concert experience.
    *guarantees identity through the phone number of membership*
 
 ### 📊 취향 맞춤 | personalized taste
-- 피하고 싶은 단어 설정
+- 피하고 싶은 단어 설정<br/>
   *Set the word you want to avoid*
-- 필터링 기술로 만나고 싶은 상대 설정
+- 필터링 기술로 만나고 싶은 상대 설정<br/>
   *The relative settings you want to meet with filtering technology*
 
 ### ✨ 메인 | Main 
-- 유저의 게시글을 확인하고 채팅으로 간편하게 대화
+- 유저의 게시글을 확인하고 채팅으로 간편하게 대화<br/>
   *Check the publishers posts and simple conversation with chat*
-- 동행 요청을 보내고, 동행 관련 내역을 관리
+- 동행 요청을 보내고, 동행 관련 내역을 관리<br/>
   *Send a accompanied request, manage the associated details*
-- 일정이 종료되면, 동행인에 대한 후기를 작성
+- 일정이 종료되면, 동행인에 대한 후기를 작성<br/>
   *At the end of the schedule, write a review*
 
 ---
