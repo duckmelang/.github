@@ -2,10 +2,6 @@
 
 [웹사이트 바로가기](https://presentalk.store/) | [Visit Website](https://presentalk.store/)
 
-![Slide 16_9 - 317](https://github.com/user-attachments/assets/45a11a4d-7779-498c-8243-0714361be0d4)
-![Slide 16_9 - 293](https://github.com/user-attachments/assets/3ee940c5-0eb7-46bd-8969-4e327fce692e)
-![Image](https://github.com/user-attachments/assets/d467b62f-994c-48bf-a398-3620bdcd1223)
-
 프레젠톡은 사용자에게 맞춤형 선물을 추천하는 스마트 선물 추천 플랫폼입니다.
 PresenTalk is a smart gift recommendation platform that provides personalized gift suggestions for your loved ones.
 
