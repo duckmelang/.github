@@ -37,9 +37,9 @@ It is a platform that provides a concert experience.
 ## 주요 기능 | Features
 
 ### 📝 회원가입 | join membership
-1. **다양한 로그인 방식**: 자체 로그인과 소셜 로그인(구글, 카카오) 지원
+1. **다양한 로그인 방식**: 자체 로그인과 소셜 로그인(구글, 카카오) 지원<br/>
    *Support for self- log and social login (google, Kakao) Support*
-2. **전화번호 인증**: 회원가입 시 전화번호 인증을 통해 신원 보장
+2. **전화번호 인증**: 회원가입 시 전화번호 인증을 통해 신원 보장<br/>
    *guarantees identity through the phone number of membership*
 
 ### 📊 취향 맞춤 | personalized taste
