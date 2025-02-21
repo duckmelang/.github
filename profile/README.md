@@ -17,7 +17,6 @@ It is a platform that provides a concert experience.
 - [주요 기능](#주요-기능--features)
 - [기술 스택](#기술-스택--tech-stack)
 - [라이센스](#라이센스--license)
-- [Contact](#contact)
 
 ---
 
