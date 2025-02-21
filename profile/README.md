@@ -1,5 +1,5 @@
 # 행복한 덕질을 위한 안전망, 덕메랑
-
+![Image](https://github.com/user-attachments/assets/e933ddc9-3990-4d59-a8be-e15460b55ed4)
 덕메랑은 같은 아이돌을 좋아하는 팬들이 모여, 안전하고 재미있는 
 콘서트 관람 경험을 제공하는 플랫폼입니다.<br/>
 Duckmelang, fans who like the same child, safe and fun 
