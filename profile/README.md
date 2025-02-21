@@ -48,7 +48,7 @@ It is a platform that provides a concert experience.
 - 필터링 기술로 만나고 싶은 상대 설정
   *The relative settings you want to meet with filtering technology*
 
-### 🎁 메인 | Main 
+### ✨ 메인 | Main 
 - 유저의 게시글을 확인하고 채팅으로 간편하게 대화
   *Check the publishers posts and simple conversation with chat*
 - 동행 요청을 보내고, 동행 관련 내역을 관리
@@ -74,12 +74,4 @@ It is a platform that provides a concert experience.
 자세한 내용은 LICENSE 파일을 참고하세요.  
 *For more details, see the LICENSE file.*
 
----
-
-## Contact
-
-프로젝트 관련 문의는 아래 이메일로 연락 부탁드립니다:
-*For inquiries about the project, please contact:*
-
-📧 **andrewkimswe@gmail.com**
 
