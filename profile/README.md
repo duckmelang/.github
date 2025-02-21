@@ -61,16 +61,6 @@ It is a platform that provides a concert experience.
 
 ---
 
-## 라이센스 | License
-
-이 프로젝트는 MIT 라이센스를 따릅니다. 자유롭게 사용하세요!  
-*This project is licensed under the MIT License. Feel free to use it!*
-
-자세한 내용은 LICENSE 파일을 참고하세요.  
-*For more details, see the LICENSE file.*
-
----
-
 ## Contact
 
 프로젝트 관련 문의는 아래 이메일로 연락 부탁드립니다:
