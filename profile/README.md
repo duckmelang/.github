@@ -60,7 +60,7 @@ It is a platform that provides a concert experience.
 ## 기술 스택 | Tech Stack
 
 - **Frontend**: Swift
-- **Backend**: SpringBoot, MySQL
+- **Backend**: SpringBoot, MySQL, MongoDB, Redis
 - **Deployment**: AWS EC2
 
 ---
